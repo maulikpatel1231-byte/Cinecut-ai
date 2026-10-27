@@ -1,0 +1,6 @@
+{
+  "name": "CineCut AI",
+  "description": "AI-powered cinematic video editor with deep thinking auto-split, Hindi/English/Gujarati beat-synced music, cinematic color grading, transitions, fine-tuning controls, and video merging.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

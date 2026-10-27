@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CineCut AI</string>
+    <string name="tagline">Cinematic Video Editor</string>
+    <string name="import_video">Import Video from Gallery</string>
+    <string name="ai_director">AI Deep Thinking Director</string>
+    <string name="split_video">Split &amp; Cut</string>
+    <string name="merge_export">Export &amp; Merge</string>
+    <string name="filters_effects">Cinematic FX &amp; Color</string>
+    <string name="music_beats">Beat-Synced Music</string>
+    <string name="export_success">Video exported successfully to Gallery!</string>
+</resources>
