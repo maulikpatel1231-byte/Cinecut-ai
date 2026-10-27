@@ -41,7 +41,7 @@ class AiCinematicDirector {
     private val geminiModel by lazy {
         try {
             Firebase.ai.generativeModel("gemini-3.8-flash")
-        } catch (e: Exception) {
+        } catch (e: Throwable) {
             Log.w(TAG, "Firebase.ai could not be initialized lazily: ${e.message}")
             null
         }
